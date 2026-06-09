@@ -409,4 +409,4 @@ For that reason:
 
 ## License
 
-This project is intended for academic and educational use. Add a license file if you plan to publish it as an open-source repository.
+This project is intended for academic and educational use.
